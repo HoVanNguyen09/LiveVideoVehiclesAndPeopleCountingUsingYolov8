@@ -1,4 +1,4 @@
-# [Demo]([https://youtu.be/oE-QtziWOL0?si=iPT-EbmZHXYUpWPc](https://youtu.be/FTevUFJ2bgQ?si=_1S8H0NUDupDJ9QI))
+# [Demo](https://youtu.be/FTevUFJ2bgQ?si=fIeOm70WiOBOMrei)
 <p align="middle">
   <a href="">
     <img src="https://github.com/HoVanNguyen09/LiveVideoVehiclesAndPeopleCountingUsingYolov8/blob/main/datas/images/demo.png" height="430">
